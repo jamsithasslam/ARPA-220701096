@@ -1,0 +1,7 @@
+﻿Read PDF text --> Native
+Read PDF with OCR ---> Scanned (Not searchable)
+
+
+
+Read pdf with OCR : 
+   use tessaract ocr, store the result in a variable in the prop of read pdf with OCR
